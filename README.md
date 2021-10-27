@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TimyVillarmia
+- 💻 Computer Science Student
 - 👀 I’m interested in Arts, Programming, and Video Games.
 - 🌱 I’m currently learning Python
 
