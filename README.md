@@ -39,7 +39,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:timyvillarmia@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.facebook.com/Chikirinfu)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.instagram.com/ymmtyy_/)
-[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/Tmy8112)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/𝙏𝙢𝙮#8112)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TimyVillarmia.visitor-badge&left_color=black&right_color=black&left_text=%20Visitors)
 
