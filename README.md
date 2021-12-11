@@ -1,6 +1,6 @@
 ## Hi, I'm Timy Villarmia <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px">
 ## 📓 A little more about me...
-   My name is Timy Villarmia. I am a Student at <a href="https://www.act.edu.ph/">Asian college of Technology</a> at Cebu, Philippines, pursuing an undergraduate degree. I am majoring in Computer Science with an interest in software engineering, game development, machine learning, and data analytics.
+   My name is Timy Villarmia. I am a Student at <a href="https://www.act.edu.ph/">Asian College of Technology</a> at Cebu, Philippines, pursuing an undergraduate degree. I am majoring in Computer Science with an interest in software engineering, game development, machine learning, and data analytics.
  
   Hobbies:
       👨‍💻 Programming |
