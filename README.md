@@ -41,8 +41,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ymmtyy_/)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=TimyVillarmia.visitor-badge&left_color=black&right_color=black&left_text=%20Visitors)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=timyvillarmia.visitor-badge)
 
 
 
