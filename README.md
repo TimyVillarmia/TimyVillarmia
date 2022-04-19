@@ -1,11 +1,20 @@
 <h1>Hi, Timy here. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px"></h1>
+
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&color=AEFEFF&center=true&vCenter=true&width=600&lines=%2FComputer+Science+major;%2FAspiring+Full-Stack+Software+Engineer">
+
+
+
+</p>
+
 <h2>/ about me</h2>
    <p>I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong>Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.</p>
    <p>Here are some technologies I have been working with:</p>
       <ul>
          <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
          <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-         <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+         <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+         <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
       </ul>
    
  
