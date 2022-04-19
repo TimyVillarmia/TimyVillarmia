@@ -1,8 +1,8 @@
 <h1>Hi, Timy here. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px"></h1>
 
-<p align="center">
+<h2 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&color=AEFEFF&center=true&vCenter=true&width=600&lines=%2FComputer+Science+major;%2FAspiring+Full-Stack+Software+Engineer">
-</p>
+</h2>
 
 <div>
    <h2>/ about me</h2>
@@ -31,19 +31,24 @@
             </details>
          </li>
       </ul>
+<h2></h2>
 </div>  
 <br>
-<h2 align="right">
-     <ul>
-         <a href="https://github.com/TimyVillarmia/"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a><br>
+<div>
+<p>
+   <ul align="right">
+        <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=15&color=AEFEFF&width=160&height=30&lines=%2F+connect+with+me"/>
+        <br><a href="https://github.com/TimyVillarmia/"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a><br>
         <a href="https://www.linkedin.com/in/timyvillarmia/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><br>
         <a href="mailto:timyvillarmia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a><br>
         <a href="https://www.facebook.com/VillarmiaTimy"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white"/></a><br>
       </ul>
+</p>
+</div>
 <!--   
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ymmtyy_/)
 -->
-</h2>
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=timyvillarmia.visitor-badge">
 
 
