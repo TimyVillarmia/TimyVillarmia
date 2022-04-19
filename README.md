@@ -1,7 +1,7 @@
 <h1>Hi, Timy here. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px"></h1>
 
 <h2 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&color=AEFEFF&center=true&vCenter=true&width=600&lines=%2FComputer+Science+major;%2FAspiring+Full-Stack+Software+Engineer">
+   <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&color=AEFEFF&center=true&vCenter=true&width=600&lines=%2FComputer+Science+major;%2FAspiring+Full-Stack+Web+Developer">
 </h2>
 
 <div>
