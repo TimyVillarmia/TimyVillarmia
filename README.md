@@ -15,7 +15,7 @@
             <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
             <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
-         <li align><h4>OS & Tools</h4></li>
+         <li><h4>OS & Tools</h4></li>
             <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
             <img src="https://img.shields.io/badge/-Github-000000?logo=Github&style=for-the-badge&logoColor=white"/>
@@ -25,28 +25,14 @@
             <img src="https://img.shields.io/badge/adobephotoshop-000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
          <li>
             <details>
-               <summary><b>Stats</b></summary>
-               <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark)"/>
-               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark)
-               [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark
-      (https://github.com/TimyVillarmia/github-readme-stats)
+               <summary><strong>Stats</strong></summary>
+               <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark"/>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark"/>
             </details>
          </li>
       </ul>
 </div>  
-
-<div>
-   <details>
-
-      <summary><b>Stats</b></summary>
-  
-         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark)
-         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark
-      (https://github.com/TimyVillarmia/github-readme-stats)
-  
-   </details>
-</div>
-
+<br>
 <h2 align="right">
      <ul>
          <a href="https://github.com/TimyVillarmia/"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
