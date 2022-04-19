@@ -44,7 +44,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ymmtyy_/)
 -->
 </h2>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=timyvillarmia.visitor-badge)
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=timyvillarmia.visitor-badge">
 
 
