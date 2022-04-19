@@ -6,15 +6,22 @@
 
 <div>
    <h2>/ about me</h2>
-   <p>I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong>Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.</p>
-   
-   <p>Here are some technologies I have been working with:</p>
-      <ul>
+   <p>I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong>Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.<br><br>Here are some technologies I have been working with:
+   </p>
+   <p>
+      <ul align="left">
          <li><h4>Languages & Frameworks</h4></li>
             <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
             <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
             <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
             <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
+         <li>
+            <details>
+               <summary><strong>Stats</strong></summary>
+               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark"/>
+               <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark"/>
+            </details>
+         </li>
          <li><h4>OS & Tools</h4></li>
             <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
             <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -23,14 +30,8 @@
             <img src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
             <img src="https://img.shields.io/badge/adobeillustrator-000000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
             <img src="https://img.shields.io/badge/adobephotoshop-000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-         <li>
-            <details>
-               <summary><strong>Stats</strong></summary>
-               <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark"/>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark"/>
-            </details>
-         </li>
       </ul>
+   </p>
 <h2></h2>
 </div>  
 <br>
