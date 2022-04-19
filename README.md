@@ -36,11 +36,11 @@
 <h2 align="right">
      <ul>
          <a href="https://github.com/TimyVillarmia/"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
-        <a href="https://github.com/TimyVillarmia/"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a>
+        <a href="https://www.linkedin.com/in/timyvillarmia/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+        <a href="mailto:timyvillarmia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
       </ul>
 <!--   
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/timyvillarmia/)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:timyvillarmia@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Chikirinfu)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ymmtyy_/)
