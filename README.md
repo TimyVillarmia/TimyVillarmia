@@ -2,10 +2,8 @@
 
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&color=AEFEFF&center=true&vCenter=true&width=600&lines=%2FComputer+Science+major;%2FAspiring+Full-Stack+Software+Engineer">
-
-
-
 </p>
+
 
 <h2>/ about me</h2>
    <p>I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong>Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.</p>
