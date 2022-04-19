@@ -42,12 +42,11 @@
         <a href="https://www.linkedin.com/in/timyvillarmia/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><br>
         <a href="mailto:timyvillarmia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a><br>
         <a href="https://www.facebook.com/VillarmiaTimy"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white"/></a><br>
+      <a href="https://www.instagram.com/ymmtyy_/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
       </ul>
 </p>
 </div>
-<!--   
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ymmtyy_/)
--->
+
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=timyvillarmia.visitor-badge">
 
