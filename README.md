@@ -1,6 +1,6 @@
 <h1>Hi, Timy here. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px"></h1>
 <h2>/ about me</h2>
-   <p>I'm a Student at <a href="https://www.act.edu.ph/">Asian College of Technology</a> at Cebu, Philippines, pursuing an undergraduate degree. I am majoring in Computer Science with an interest in web development and data science.</p>
+   <p>I am currently a 1st year <strong>Computer Science</strong> major at<a href="https://www.act.edu.ph/">Asian College of Technology</a, I have a interest in Web Development and Data Science.</p>
   
   Hobbies:
       👨‍💻 Programming |
