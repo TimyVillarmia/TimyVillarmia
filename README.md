@@ -1,6 +1,6 @@
-## Hey there! I'm Timy. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px">
-## 📓 A little more about me...
-   I'm a Student at <a href="https://www.act.edu.ph/">Asian College of Technology</a> at Cebu, Philippines, pursuing an undergraduate degree. I am majoring in Computer Science with an interest in web development and data science.
+<h1>Hi, Timy here. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px"></h1>
+<h2>/ about me</h2>
+   <p>I'm a Student at <a href="https://www.act.edu.ph/">Asian College of Technology</a> at Cebu, Philippines, pursuing an undergraduate degree. I am majoring in Computer Science with an interest in web development and data science.</p>
   
   Hobbies:
       👨‍💻 Programming |
