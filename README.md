@@ -33,13 +33,12 @@
             <img src="https://img.shields.io/badge/c%23-64ffda.svg?style=for-the-badge&logo=c-sharp&logoColor=000000"/>
             <img src="https://img.shields.io/badge/HTML-64ffda?style=for-the-badge&logo=html5&logoColor=000000"/>
             <img src="https://img.shields.io/badge/.NET-64ffda?style=for-the-badge&logo=.net&logoColor=000000"/>
-         <li>
+            <br>
             <details>
                <summary><strong>Stats</strong></summary>
                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark"/>
                <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark"/>
             </details>
-         </li>
          <li><h4>OS & Tools</h4></li>
             <img src="https://img.shields.io/badge/Windows-64ffda?style=for-the-badge&logo=windows&logoColor=000000"/>
             <img src="https://img.shields.io/badge/Ubuntu-64ffda?style=for-the-badge&logo=ubuntu&logoColor=000000"/>
