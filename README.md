@@ -1,20 +1,38 @@
-<h1>Hi, Timy here. <img src="https://github.com/TimyVillarmia/TimyVillarmia/blob/main/wave.gif" width="30px"></h1>
+<!--
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!--
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Personal Page</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+  </head>
+  <body style="background-color: #0A192F;">
+-->
+<h1 style="color:#93B8C7;">Hi, Timy here. <img src="./assets/wave.gif" width="30px"></h1>
 
 <h2 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&color=AEFEFF&center=true&vCenter=true&width=600&lines=%2FComputer+Science+major;%2FAspiring+Full-Stack+Web+Developer">
+   <img src="./assets/typing.svg">
 </h2>
 
-<div>
-   <h2>/ about me</h2>
-   <p>I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong>Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.<br><br>Here are some technologies I have been working with:
+<div style="color: #93B8C7;">
+   <h2 style="color:#93B8C7;">/ about me</h2>
+   <p style="color: #a8b2d1;">I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong style="color: #64ffda;">Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.<br><br>Here are some technologies I have been working with:
    </p>
    <p>
       <ul align="left">
          <li><h4>Languages & Frameworks</h4></li>
-            <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-            <img src="https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-            <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-            <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
+            <img src="https://img.shields.io/badge/python-64ffda?style=for-the-badge&logo=python&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/c%23-64ffda.svg?style=for-the-badge&logo=c-sharp&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/HTML-64ffda?style=for-the-badge&logo=html5&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/.NET-64ffda?style=for-the-badge&logo=.net&logoColor=000000"/>
          <li>
             <details>
                <summary><strong>Stats</strong></summary>
@@ -23,13 +41,13 @@
             </details>
          </li>
          <li><h4>OS & Tools</h4></li>
-            <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-            <img src="https://img.shields.io/badge/-Github-000000?logo=Github&style=for-the-badge&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-            <img src="https://img.shields.io/badge/adobeillustrator-000000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-            <img src="https://img.shields.io/badge/adobephotoshop-000000.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Windows-64ffda?style=for-the-badge&logo=windows&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/Ubuntu-64ffda?style=for-the-badge&logo=ubuntu&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/-Github-64ffda?logo=Github&style=for-the-badge&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-64ffda.svg?style=for-the-badge&logo=visual-studio-code&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/Visual%20Studio-64ffda.svg?style=for-the-badge&logo=visual-studio&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/adobeillustrator-64ffda.svg?style=for-the-badge&logo=adobeillustrator&logoColor=000000"/>
+            <img src="https://img.shields.io/badge/adobephotoshop-64ffda.svg?style=for-the-badge&logo=adobephotoshop&logoColor=000000"/>
       </ul>
    </p>
 <h2></h2>
@@ -38,17 +56,17 @@
 <div>
 <p>
    <ul align="right">
-        <img src="https://readme-typing-svg.herokuapp.com?font=montserrat&size=15&color=AEFEFF&width=160&height=30&lines=%2F+connect+with+me"/>
-        <br><a href="https://github.com/TimyVillarmia/"><img src="https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=white"/></a><br>
-        <a href="https://www.linkedin.com/in/timyvillarmia/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><br>
-        <a href="mailto:timyvillarmia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"/></a><br>
-        <a href="https://www.facebook.com/VillarmiaTimy"><img src="https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=white"/></a><br>
-      <a href="https://www.instagram.com/ymmtyy_/"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+        <img src="./assets/connect.svg"/> <br>
+        <a href="https://github.com/TimyVillarmia/"" target="_blank"><img src="./assets/github_icon.png"/></a>
+        <a href="https://www.linkedin.com/in/timyvillarmia/" target="_blank"><img src="./assets/linkedin_icon.png"/></a>
+        <a href="mailto:timyvillarmia@gmail.com" target="_blank" ><img src="./assets/mail_icon.png"/></a>
+        <a href="https://www.facebook.com/VillarmiaTimy" target="_blank"><img src="./assets/facebook_icon.png"/></a>
+        <a href="https://www.instagram.com/ymmtyy_/" target="_blank"><img src="./assets/instagram_icon.png"/></a> <br>
+        <img src="https://visitor-badge.glitch.me/badge?page_id=TimyVillarmia.visitor-badge&left_color=black&right_color=black&left_text=Visitors%20Visitors">
       </ul>
 </p>
 </div>
+  
 
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=timyvillarmia.visitor-badge">
-
-
+  </body>
+</html>
