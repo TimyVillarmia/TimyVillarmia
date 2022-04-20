@@ -61,7 +61,7 @@
         <a href="mailto:timyvillarmia@gmail.com" target="_blank" ><img src="./assets/mail_icon.png"/></a>
         <a href="https://www.facebook.com/VillarmiaTimy" target="_blank"><img src="./assets/facebook_icon.png"/></a>
         <a href="https://www.instagram.com/ymmtyy_/" target="_blank"><img src="./assets/instagram_icon.png"/></a> <br>
-        <img src="https://visitor-badge.glitch.me/badge?page_id=TimyVillarmia.visitor-badge&left_color=black&right_color=black&left_text=Visitors%20Visitors">
+        <img src="https://visitor-badge.glitch.me/badge?page_id=TimyVillarmia.visitor-badge&left_color=black&right_color=black&left_text=%20Visitors">
       </ul>
 </p>
 </div>
