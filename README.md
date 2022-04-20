@@ -24,7 +24,7 @@
 
 <div style="color: #93B8C7;">
    <h2 style="color:#93B8C7;">/ about me</h2>
-   <p style="color: #a8b2d1;">I am currently a 1st year <strong>Computer Science</strong> major at <a href="https://www.act.edu.ph/"><strong style="color: #64ffda;">Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.<br><br>Here are some technologies I have been working with:
+   <p style="color: #a8b2d1;">I am currently a 1st year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph" target="_blank"><strong style="color: #64ffda;">Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.<br><br>Here are some technologies I have been working with:
    </p>
    <p>
       <ul align="left">
