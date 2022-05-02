@@ -17,6 +17,7 @@
       <img src="https://img.shields.io/badge/python-64ffda?style=for-the-badge&logo=python&logoColor=000000"/>
       <img src="https://img.shields.io/badge/c%23-64ffda.svg?style=for-the-badge&logo=c-sharp&logoColor=000000"/>
       <img src="https://img.shields.io/badge/HTML-64ffda?style=for-the-badge&logo=html5&logoColor=000000"/>
+     <img src="https://img.shields.io/badge/CSS-64ffda?style=for-the-badge&logo=css3&logoColor=000000"/>
       <img src="https://img.shields.io/badge/.NET-64ffda?style=for-the-badge&logo=.net&logoColor=000000"/>
     <details>
       <summary><strong>Stats</strong></summary>
