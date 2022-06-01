@@ -11,7 +11,7 @@
    
    Here are some technologies I have been working with:
    
-<p>
+
   <ul>
     <li><h4>Languages & Frameworks</h4></li>
       <img src="https://img.shields.io/badge/python-64ffda?style=for-the-badge&logo=python&logoColor=000000"/>
@@ -21,7 +21,16 @@
       <img src="https://img.shields.io/badge/.NET-64ffda?style=for-the-badge&logo=.net&logoColor=000000"/>
   </ul>
 
-<h1></h1>
+## / stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=default)
+
+
+
+  
+
+</a>
 
 <p align="right">
   <img src="./assets/connect.svg"/> <br>
