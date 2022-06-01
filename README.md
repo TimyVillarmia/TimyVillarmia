@@ -1,6 +1,6 @@
-<h1> Hi, Timy here. <img src="./assets/wave.gif" width="12px"/></h1>
+<h1> Hi, Timy here. <img src="./assets/wave.gif" width="30x" height="40"/></h1> 
 
-<h2 align="center">
+<h2 align="center"> 
    <img src="./assets/typing.svg">
 </h2>
 
