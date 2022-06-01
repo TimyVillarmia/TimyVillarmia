@@ -22,8 +22,13 @@
 
 ## / stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&bg_color=)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=default)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=default"/>
+</a>
+
 
 
 
