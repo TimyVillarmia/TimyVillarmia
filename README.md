@@ -29,13 +29,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=default"/>
 </a>
 
-
-
-
-  
-
-</a>
-
+<h1></h1>
+<p></p>
 <p align="right">
   <img src="./assets/connect.svg"/> <br>
   <a href="https://github.com/TimyVillarmia/"" target="_blank"><img src="./assets/github_icon.png"/></a>
