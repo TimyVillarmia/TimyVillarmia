@@ -1,9 +1,4 @@
-<h1> Hi, Timy here. <img src="./assets/wave.gif" width="30x" height="50"></h1> 
-
-<h2 align="center"> 
-   <img src="./assets/typing.svg">
-</h2>
-
+<h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="50px"></h1> 
 
 ## / about me
 
