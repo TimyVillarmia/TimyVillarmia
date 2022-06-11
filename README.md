@@ -2,7 +2,7 @@
 
 ## / about me
 
-   I am currently a 1st year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have a interest in <strong>Web Development</strong>, <strong>Software Engineering</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.
+   I am currently a 1st year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have an interest in <strong>Web Development</strong>, <strong>Software Engineering</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.
    
    Here are some technologies I have been working with:
    
