@@ -1,13 +1,11 @@
 <h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="50px"></h1> 
 
 ## / about me
-
-   I am currently a 1st year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have an interest in <strong>Web Development</strong>, <strong>Software Engineering</strong> and <strong>Data Science</strong>. Outside of work, I play a lot of video games and making art pieces.
+   I am currently a 1st year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have an interest in <strong>Full-stack development</strong>, <strong>Software Engineering</strong>, <strong>Data Science</strong>, and everything in between. Outside of work, I play a lot of video games and making art pieces.
    
    Here are some technologies I have been working with:
    
   <ul>
-    <li><h4>Languages & Frameworks</h4></li>
       <img src="https://img.shields.io/badge/Python-64ffda?style=for-the-badge&logo=python&logoColor=000000"/>
       <img src="https://img.shields.io/badge/C%23-64ffda?style=for-the-badge&logo=c-sharp&logoColor=000000"/>
       <img src="https://img.shields.io/badge/HTML-64ffda?style=for-the-badge&logo=html5&logoColor=000000"/>
