@@ -1,4 +1,4 @@
-<h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="50px"></h1> 
+<h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="30px"></h1> 
 
 ## / about me
    Hey there! Let's connect :)
