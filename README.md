@@ -1,16 +1,14 @@
 <h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="50px"></h1> 
 
 ## / about me
+   Hey there! Let's connect :)
+
    I am currently a 2nd year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have an interest in <strong>Full-stack development</strong>, <strong>Game Development</strong>, <strong>Data Science</strong>, and everything in between. Outside of work, I play a lot of video games and making art pieces.
+   
+Focus: full-stack development (C#, Python, Javascript)
    
    Here are some technologies I have been working with:
    
-  <ul>
-      <img src="https://img.shields.io/badge/Python-64ffda?style=for-the-badge&logo=python&logoColor=000000"/>
-      <img src="https://img.shields.io/badge/C%23-64ffda?style=for-the-badge&logo=c-sharp&logoColor=000000"/>
-      <img src="https://img.shields.io/badge/HTML-64ffda?style=for-the-badge&logo=html5&logoColor=000000"/>
-     <img src="https://img.shields.io/badge/CSS-64ffda?&style=for-the-badge&logo=css3&logoColor=000000"/>
-  </ul>
 
 ## / stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
