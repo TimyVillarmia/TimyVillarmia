@@ -19,7 +19,6 @@ Focus: Web development (C#, Python, Javascript)
 
 <p></p>
 <p>
-  <img src="./assets/connect.svg"/> <br>
   💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
 <p>
                                                                                                            
