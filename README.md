@@ -18,14 +18,9 @@ Focus: Web development (C#, Python, Javascript)
 
 
 <p></p>
-<p align="right">
+<p>
   <img src="./assets/connect.svg"/> <br>
-  <a href="https://github.com/TimyVillarmia/"" target="_blank"><img src="./assets/github_icon.png"/></a>
-  <a href="https://www.linkedin.com/in/timyvillarmia/" target="_blank"><img src="./assets/linkedin_icon.png"/></a>
-  <a href="mailto:timyvillarmia@gmail.com" target="_blank" ><img src="./assets/mail_icon.png"/></a>
-  <a href="https://www.facebook.com/VillarmiaTimy" target="_blank"><img src="./assets/facebook_icon.png"/></a>
-  <a href="https://www.instagram.com/ymmtyy_/" target="_blank"><img src="./assets/instagram_icon.png"/></a> <br>
-  <a><img src="https://komarev.com/ghpvc/?username=your-github-TimyVillarmia&style=flat-square&label=Visitors&color=000000"/></a>
+  💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
 <p>
                                                                                                            
                                                                
