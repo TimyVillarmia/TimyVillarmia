@@ -5,9 +5,7 @@
 
    I am currently a 2nd year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have an interest in <strong>Full-stack development</strong>, <strong>Game Development</strong>, <strong>Data Science</strong>, and everything in between. Outside of work, I play a lot of video games and making art pieces.
    
-Focus: full-stack development (C#, Python, Javascript)
-   
-   Here are some technologies I have been working with:
+Focus: Web development (C#, Python, Javascript)
    
 
 ## / stats
