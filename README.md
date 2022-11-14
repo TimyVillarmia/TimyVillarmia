@@ -11,12 +11,9 @@ Focus: Web development (C#, Python, Javascript)
 
    
 
-<a href="https://github.com/anuraghazra/convoychat">
-   <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=default"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact"/>
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
                                                                                                            
