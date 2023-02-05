@@ -2,11 +2,10 @@
 
 
    Hey there! Let's connect :)
-
-   I am currently a 2nd year <strong>Computer Science</strong> major at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I have an interest in <strong>Full-stack development</strong>, <strong>Game Development</strong>, <strong>Software Engineering</strong>, and everything in between. Outside of work, I play a lot of video games and making art pieces.
    
+   I'm a computer science major in my second year at <a href="http://www.act.edu.ph"><strong>Asian College of Technology</strong></a>, I am driven by a passion for software engineering, game development, and all things tech. When I'm not coding, you can find me immersed in the virtual world of video games or bringing my creativity to life through art. I'm always eager to learn and grow in the exciting field of technology!"
 
-###### Learning: C#, Javascript
+###### Learning: C#, Javascript, SQL
 
 💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
 
