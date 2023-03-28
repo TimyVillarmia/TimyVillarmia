@@ -5,8 +5,6 @@
    
    Hello! I am a computer science student with a passion for front-end development, software engineering, UI/UX design, and all things tech. My love for technology started from the very first time I used a computer. It was love at first sight. Now, years later, I am still just as passionate about technology as I was that first day. 
 
-Currently, I am pursuing my bachelor's degree in computer science. In my coursework, I have learned a solid foundation in programming languages and concepts, including C#, Object-Oriented Programming, SQL, and data structures. When I'm not coding, you can find me immersed in the virtual world of video games or bringing my creativity to life through art. 
-
 If you're interested in connecting with me about job opportunities or internships, I would love to hear from you. The easiest way to get in touch with me is through LinkedIn or Timyvillarmia@gmail.com.
 
 https://github.com/TimyVillarmia
