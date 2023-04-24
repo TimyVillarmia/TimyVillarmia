@@ -7,12 +7,10 @@
 
 If you're interested in connecting with me about job opportunities or internships, I would love to hear from you. The easiest way to get in touch with me is through LinkedIn or Timyvillarmia@gmail.com.
 
-https://github.com/TimyVillarmia
-
+💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
 
 ###### Learning: C#, Javascript, SQL
 
-💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
 
    
 
