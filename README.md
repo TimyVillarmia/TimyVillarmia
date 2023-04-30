@@ -9,7 +9,7 @@ If you're interested in connecting with me about job opportunities or internship
 
 💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
 
-###### Learning: C#, Javascript, SQL
+###### Learning: C#, Javascript, Python, SQL
 
 
    
