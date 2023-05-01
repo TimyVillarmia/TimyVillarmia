@@ -3,7 +3,7 @@
 
    Hey there! Let's connect :)
    
-   Hello! I am a computer science student with a passion for software engineering, game development, human-computer interaction, and all things tech. My love for technology started from the very first time I used a computer. It was love at first sight. Now, years later, I am still just as passionate about technology as I was that first day. 
+   Hello! I am a computer science student with a passion for software engineering, theoretical computer science, human-computer interaction, and all things tech. My love for technology started from the very first time I used a computer. It was love at first sight. Now, years later, I am still just as passionate about technology as I was that first day. 
 
 If you're interested in connecting with me about job opportunities or internships, I would love to hear from you. The easiest way to get in touch with me is through LinkedIn or Timyvillarmia@gmail.com.
 
