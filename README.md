@@ -15,7 +15,7 @@ If you're interested in connecting with me about job opportunities or internship
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TimyVillarmia&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,13 +23,15 @@ If you're interested in connecting with me about job opportunities or internship
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    1 hr 46 mins        █████████████████████████   100.00 % 
+Other                    3 hrs 8 mins        █████████████████████████   99.51 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-Chrome                   1 hr 46 mins        █████████████████████████   100.00 % 
+Chrome                   3 hrs 8 mins        █████████████████████████   99.51 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -41,12 +43,8 @@ C#                       4 repos             ███████████�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/TimyVillarmia/TimyVillarmia/main/assets/bar_graph.png)
-
-
- Last Updated on 03/05/2023 13:38:53 UTC
+ Last Updated on 04/05/2023 00:28:55 UTC
 <!--END_SECTION:waka--> 
 
 
