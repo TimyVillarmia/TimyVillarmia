@@ -15,7 +15,7 @@ If you're interested in connecting with me about job opportunities or internship
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TimyVillarmia&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-155-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,17 +23,17 @@ If you're interested in connecting with me about job opportunities or internship
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    20 hrs 51 mins      █████████████████████░░░░   84.54 % 
-Python                   3 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    28 hrs 26 mins      ██████████████████████░░░   88.17 % 
+Python                   3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 51 mins      █████████████████████░░░░   84.54 % 
-PyCharm                  3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Chrome                   28 hrs 26 mins      ██████████████████████░░░   88.17 % 
+PyCharm                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  24 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -46,7 +46,7 @@ C#                       4 repos             ███████████�
 
 
 
- Last Updated on 08/05/2023 00:28:10 UTC
+ Last Updated on 09/05/2023 00:29:09 UTC
 <!--END_SECTION:waka--> 
 
 
