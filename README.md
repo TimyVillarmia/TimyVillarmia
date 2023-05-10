@@ -15,7 +15,7 @@ If you're interested in connecting with me about job opportunities or internship
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TimyVillarmia&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,17 +23,18 @@ If you're interested in connecting with me about job opportunities or internship
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    28 hrs 26 mins      ██████████████████████░░░   88.17 % 
-Python                   3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    38 hrs 6 mins       ██████████████████████░░░   89.56 % 
+Python                   4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 26 mins      ██████████████████████░░░   88.17 % 
-PyCharm                  3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   38 hrs 6 mins       ██████████████████████░░░   89.56 % 
+PyCharm                  4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Ssms                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 💻 Operating System: 
-Windows                  32 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  42 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -46,7 +47,7 @@ C#                       4 repos             ███████████�
 
 
 
- Last Updated on 09/05/2023 00:29:09 UTC
+ Last Updated on 10/05/2023 00:27:58 UTC
 <!--END_SECTION:waka--> 
 
 
