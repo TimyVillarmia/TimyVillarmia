@@ -15,7 +15,7 @@ If you're interested in connecting with me about job opportunities or internship
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TimyVillarmia&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-147-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,17 +23,15 @@ If you're interested in connecting with me about job opportunities or internship
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-Other                    57 hrs 34 mins      ███████████████████████░░   92.93 % 
-Python                   4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    56 hrs 15 mins      ███████████████████████░░   93.57 % 
+Python                   3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-Chrome                   57 hrs 34 mins      ███████████████████████░░   92.93 % 
-PyCharm                  4 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Ssms                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   56 hrs 15 mins      ███████████████████████░░   93.57 % 
+PyCharm                  3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 💻 Operating System: 
-Windows                  61 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  60 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -46,7 +44,7 @@ C#                       4 repos             ██████████░�
 
 
 
- Last Updated on 16/05/2023 00:28:46 UTC
+ Last Updated on 17/05/2023 00:32:13 UTC
 <!--END_SECTION:waka--> 
 
 
