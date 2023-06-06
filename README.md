@@ -1,13 +1,11 @@
 <h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="30px"></h1> 
 
 
-   Hey there! Let's connect :)
-   
-   Hello! I am a computer science student with a passion for software engineering, theoretical computer science, human-computer interaction, and all things tech. My love for technology started from the very first time I used a computer. It was love at first sight. Now, years later, I am still just as passionate about technology as I was that first day. 
+Timy Villarmia is a sophomore computer science student with a wide range of interests in software engineering, theoretical computer science, human-computer interaction, and all things tech. He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. Outside of coding, Timy finds joy in playing video games and expressing his creativity through art. With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful impact in the field and create innovative solutions that blend creativity with technical expertise.
 
-If you're interested in connecting with me about job opportunities or internships, I would love to hear from you. The easiest way to get in touch with me is through LinkedIn or Timyvillarmia@gmail.com.
+If you're seeking a motivated individual for job opportunities or internships, Timy eagerly awaits your connection. Don't hesitate to reach out via LinkedIn or drop a message at Timyvillarmia@gmail.com. 
 
-💬 Reach me by email or LinkedIn! timyvillarmia@gmail.com | https://www.linkedin.com/in/timyvillarmia/
+Get a glimpse of Timy's coding prowess on GitHub: https://github.com/TimyVillarmia. Let's collaborate and shape the future of technology together!
 
 ###### Learning: C#, Javascript, Python, SQL
 
