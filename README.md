@@ -1,7 +1,7 @@
 <h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="30px"></h1> 
 
 
-Timy Villarmia is a junior computer science student with a wide range of interests in software engineering, theoretical computer science, human-computer interaction, and all things tech. He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. Outside of coding, Timy finds joy in playing video games and expressing his creativity through art. With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful impact in the field and create innovative solutions that blend creativity with technical expertise.
+Timy Villarmia is a 3rd year computer science student with a wide range of interests in software engineering, theoretical computer science, human-computer interaction, and all things tech. He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. Outside of coding, Timy finds joy in playing video games and expressing his creativity through art. With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful impact in the field and create innovative solutions that blend creativity with technical expertise.
 
 If you're seeking a motivated individual for job opportunities or internships, Timy eagerly awaits your connection. Don't hesitate to reach out via LinkedIn at https://www.linkedin.com/in/timyvillarmia/ or drop a message at Timyvillarmia@gmail.com. 
 
