@@ -1,11 +1,9 @@
-<h1> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="30px"></h1> 
+<h1 align="center"> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="30px"></h1> 
 
+<p align="center">
+  <samp>Timy Villarmia is a 3rd year computer science student with a wide range of interests in software engineering, theoretical computer science, human-computer interaction, and all things tech. He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. Outside of coding, Timy finds joy in playing video games and expressing his creativity through art. With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful impact in the field and create innovative solutions that blend creativity with technical expertise. <br><br> If you're seeking a motivated individual for job opportunities or internships, Timy eagerly awaits your connection. Don't hesitate to reach out via https://www.linkedin.com/in/timyvillarmia or drop a message at Timyvillarmia@gmail.com. </samp>
+</p>
 
-Timy Villarmia is a 3rd year computer science student with a wide range of interests in software engineering, theoretical computer science, human-computer interaction, and all things tech. He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. Outside of coding, Timy finds joy in playing video games and expressing his creativity through art. With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful impact in the field and create innovative solutions that blend creativity with technical expertise.
-
-If you're seeking a motivated individual for job opportunities or internships, Timy eagerly awaits your connection. Don't hesitate to reach out via LinkedIn at https://www.linkedin.com/in/timyvillarmia/ or drop a message at Timyvillarmia@gmail.com. 
-
-Get a glimpse of Timy's coding prowess on GitHub: https://github.com/TimyVillarmia. Let's collaborate and shape the future of technology together!
 <!-- 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TimyVillarmia&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TimyVillarmia&theme=github_dark)
@@ -20,15 +18,12 @@ Get a glimpse of Timy's coding prowess on GitHub: https://github.com/TimyVillarm
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TimyVillarmia&theme=dark"/>
     </td> 
   </tr> 
- 
    <tr> 
     <td align="center"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark">
+       <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark" />
     </td> 
     <td align="center">
-     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&theme=dark" />
-     </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&count_private=true&theme=dark"/>
     </td> 
    </tr> 
 </table>
