@@ -11,7 +11,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TimyVillarmia&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TimyVillarmia&theme=github_dark&utcOffset=8) -->
 
-## 📊 My Github Stats
 <table align="center" width="100%"> 
   <tr> 
     <td align="center" colspan="2"> 
