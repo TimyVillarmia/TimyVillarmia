@@ -1,15 +1,34 @@
-<h1 align="center"> Hi, Timy here. <img src="./assets/wave.gif" width="30px" height="30px"></h1> 
+<pre>
+$ <strong>whoami</strong>
+I'm Timy Villarmia, a 3rd-year computer science student with a wide range of interests in software engineering, 
+theoretical computer science, human-computer interaction, and all things tech.
+  
+$ <strong>ls -l</strong>
+- 🎓 BS Computer Science <a href="https://act.edu.ph/">@Asian College of Technology</a>  
+- 🔭 Focusing on: Front-End Development
+- 🌱 Currently learning: React and other exciting topics in computer science.
+- 💻 Skills: C#, Javascript, Python, HTML, CSS
+- 😀 Hobbies: Coding, Video Games, Watching tech videos, Arts
 
-<p align="center">
-  <samp>Timy Villarmia is a 3rd year computer science student with a wide range of interests in software engineering, theoretical computer science, human-computer interaction, and all things tech. He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. Outside of coding, Timy finds joy in playing video games and expressing his creativity through art. With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful impact in the field and create innovative solutions that blend creativity with technical expertise. <br><br> If you're seeking a motivated individual for job opportunities or internships, Timy eagerly awaits your connection. Don't hesitate to reach out via https://www.linkedin.com/in/timyvillarmia or drop a message at Timyvillarmia@gmail.com. </samp>
-</p>
+$ <strong>cat about.txt</strong>
+I'm a tech enthusiast with a strong foundation in computer science, eager to make a meaningful impact 
+in the field through innovative solutions that blend creativity and technical expertise.
 
-<!-- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TimyVillarmia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TimyVillarmia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TimyVillarmia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TimyVillarmia&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TimyVillarmia&theme=github_dark&utcOffset=8) -->
+$ <strong>contact</strong>
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
+- 📧 Email: <a href="mailto: Timyvillarmia@gmail.com">Timyvillarmia@gmail.com</a>  
+
+$ <strong>echo</strong> "Let's connect and collaborate on exciting projects!"
+</pre>
+
+<!-- - 🌐 Website: [Your Personal Website]
+ -->
+<!-- $ <strong>history</strong>
+- Bachelor's in Computer Science
+- Intern at [Company Name]
+- Contributed to [Open Source Project] -->
+<details>
+<summary>Github Stats</summary>
 
 <table align="center" width="100%"> 
   <tr> 
@@ -27,10 +46,15 @@
    </tr> 
 </table>
 
+</details>
+
+
+
 ## 🚀 Frameworks and Tools:
 <p align="center">
 <!--  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/> -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -41,6 +65,7 @@
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+ 
 
 </p>
 
