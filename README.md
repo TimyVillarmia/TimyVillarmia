@@ -17,7 +17,7 @@ in the field through innovative solutions that blend creativity and technical ex
 $ <strong>contact</strong>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
 - 📧 Email: <a href="mailto: Timyvillarmia@gmail.com">Timyvillarmia@gmail.com</a>  
-
+- 🔗 Links: <a href="https://bio.link/ymmtyy">https://bio.link/ymmtyy</a>  
 $ <strong>echo</strong> "Let's connect and collaborate on exciting projects!"
 </pre>
 
