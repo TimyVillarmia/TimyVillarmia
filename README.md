@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif"/>
-
 <pre>
 $ <strong>whoami</strong>
 I'm Timy Villarmia, a 3rd-year computer science student with a wide range of interests in software engineering, 
