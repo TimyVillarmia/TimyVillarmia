@@ -11,8 +11,9 @@ $ <strong>ls -l</strong>
 - 😀 Hobbies: Coding, Video Games, Watching tech videos, Arts
 
 $ <strong>cat about.txt</strong>
-I'm a tech enthusiast with a strong foundation in computer science, eager to make a meaningful impact 
-in the field through innovative solutions that blend creativity and technical expertise.
+He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. 
+With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful 
+impact in the field and create innovative solutions that blend creativity with technical expertise.
 
 $ <strong>contact</strong>
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
