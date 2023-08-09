@@ -1,21 +1,20 @@
 <pre>
 $ <strong>whoami</strong>
 I'm Timy Villarmia, a 3rd-year computer science student with a wide range of interests in software engineering, 
-theoretical computer science, human-computer interaction, and all things tech.
+AI and Machine Learning, human-computer interaction, and all things tech.
   
 $ <strong>ls -l</strong>
 - 🎓 BS Computer Science <a href="https://act.edu.ph/">@Asian College of Technology</a>  
 - 🔭 Focusing on: Front-End Development
-- 🌱 Currently learning: React and other exciting topics in computer science.
-- 💻 Skills: C#, Javascript, Python, HTML, CSS
 - 😀 Hobbies: Coding, Video Games, Watching tech videos, Arts
 
-$ <strong>cat about.txt</strong>
-He is an avid learner who thrives on continuous improvement, always seeking to expand his knowledge and sharpen his skills. 
-With a strong foundation in computer science and a well-rounded approach to technology, he's ready to make a meaningful 
-impact in the field and create innovative solutions that blend creativity with technical expertise.
+$ <strong>ls skills</strong>
+- 👾 Languages: C#, Javascript, Python, HTML, CSS
+- 💻 Technical Stack: React, MSSQL Server, Bootstrap, Vite, Git
+- 🎨 Creative Stack: Figma, Adobe Photoshop
 
 $ <strong>contact</strong>
+- 🌐 Website: [Under Construction 🚧]
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
 - 📧 Email: <a href="mailto: Timyvillarmia@gmail.com">Timyvillarmia@gmail.com</a>  
 - 🔗 Links: <a href="https://bio.link/ymmtyy">https://bio.link/ymmtyy</a>  
