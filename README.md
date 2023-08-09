@@ -10,7 +10,7 @@ $ <strong>ls -l</strong>
 
 $ <strong>ls skills</strong>
 - 👾 Languages: C#, Javascript, Python, HTML, CSS
-- 💻 Technical Stack: React, MSSQL Server, Bootstrap, Vite, Git
+- 💻 Technical Stack: React, .Net, MSSQL Server, Bootstrap, Vite, Git
 - 🎨 Creative Stack: Figma, Adobe Photoshop
 
 $ <strong>contact</strong>
