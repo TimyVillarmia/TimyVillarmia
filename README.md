@@ -8,12 +8,12 @@ $ <strong>ls -l</strong>
 - 🔭 Focusing on: Front-End Development
 - 😀 Hobbies: Coding, Video Games, Watching tech videos, Arts
 
-$ <strong>ls skills</strong>
+$ <strong>ls -l skills</strong>
 - 👾 Languages: C#, Javascript, Python, HTML, CSS
 - 💻 Technical Stack: React, .Net, MSSQL Server, Bootstrap, Vite, Git
 - 🎨 Creative Stack: Figma, Adobe Photoshop
 
-$ <strong>contact</strong>
+$ <strong>cat contact.txt</strong>
 - 🌐 Website: [Under Construction 🚧]
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
 - 📧 Email: <a href="mailto: Timyvillarmia@gmail.com">Timyvillarmia@gmail.com</a>  
