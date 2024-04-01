@@ -4,7 +4,7 @@ I'm Timy Villarmia, a 3rd-year computer science student with a wide range of int
 Full-stack Development, AI, human-computer interaction, and everything in between.
   
 $ <strong>cat contact.txt</strong>
-- 🌐 Website: [Under Construction 🚧]
+- 🌐 Website: https://timyvillarmia.me/
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
 - 🔗 Links: <a href="https://bio.link/ymmtyy">https://bio.link/ymmtyy</a>  
 </pre>
