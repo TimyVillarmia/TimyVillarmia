@@ -1,7 +1,7 @@
 <pre>
 $ <strong>whoami</strong>
 I'm Timy Villarmia, a 3rd-year computer science student with a wide range of interests 
-Full-stack Development, AI, human-computer interaction, and everything in between.
+Full-stack Development, AI, Game-Development, and everything in between.
   
 $ <strong>cat contact.txt</strong>
 - 🌐 Website: <a href="https://timyvillarmia.me/">https://timyvillarmia.me/</a>  
