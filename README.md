@@ -20,7 +20,7 @@ $ <strong>cat contact.txt</strong>
        <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark" />
     </td> 
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&count_private=true&theme=dark"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=10&theme=dark"/>
     </td> 
    </tr> 
 </table>
