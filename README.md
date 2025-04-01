@@ -4,7 +4,7 @@ I'm Timy Villarmia, a senior computer science student with a wide range of inter
 Full-stack Development, AI, Game-Development, and everything in between.
   
 $ <strong>cat contact.txt</strong>
-- 🌐 Website: <a href="https://portfolio-6or.pages.dev/">https://portfolio-6or.pages.dev//</a>  
+- 🌐 Website: <a href="https://timyvillarmia.vercel.app/">https://timyvillarmia.vercel.app/</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
 - 🔗 Links: <a href="https://bio.link/ymmtyy">https://bio.link/ymmtyy</a>  
 </pre>
