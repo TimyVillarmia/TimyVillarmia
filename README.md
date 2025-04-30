@@ -6,7 +6,6 @@ Full-stack Development, AI, Game-Development, and everything in between.
 $ <strong>cat contact.txt</strong>
 - 🌐 Website: <a href="https://timyvillarmia.vercel.app/">https://timyvillarmia.vercel.app/</a>  
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
-- 🔗 Links: <a href="https://bio.link/ymmtyy">https://bio.link/ymmtyy</a>  
 </pre>
 
 <table align="center" width="100%"> 
