@@ -1,6 +1,6 @@
 <pre>
 $ <strong>whoami</strong>
-I'm Timy Villarmia, a senior computer science student with a wide range of interests 
+I'm Timy Villarmia, a computer science graduate with a wide range of interests 
 Full-stack Development, Cloud Computing, Game-Development, and everything in between.
   
 $ <strong>cat contact.txt</strong>
