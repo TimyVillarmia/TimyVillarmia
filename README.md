@@ -31,12 +31,17 @@ Full-stack Development, Cloud Computing, Game-Development, and everything in bet
 ✅ Build Succeeded: Profile Stats deployed
 ```
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<table align="center" width="100%"> 
+   <tr> 
+    <td align="center"> 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+    </td> 
+    <td align="center">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
-</a>
+    </td> 
+   </tr> 
+</table>
 
 ```bash
 # ==========================
