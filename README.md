@@ -1,33 +1,45 @@
-<pre>
-$ <strong>whoami</strong>
+```bash
+# Starting CI/CD pipeline...
+# ==========================
+
+[00:00] Initializing pipeline for profile build...
+[00:01] Checking out repository: github.com/TimyVillarmia
+[00:02] Running job: whoami
+
+> echo "Hey there!"
 I'm Timy Villarmia, a computer science graduate with a wide range of interests 
 Full-stack Development, Cloud Computing, Game-Development, and everything in between.
-  
-$ <strong>cat contact.txt</strong>
-- 🌐 Website: <a href="https://timyvillarmia.vercel.app/">https://timyvillarmia.vercel.app/</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/timyvillarmia">https://www.linkedin.com/in/timyvillarmia</a>  
-</pre>
 
-<table align="center" width="100%"> 
-  <tr> 
-    <td align="center" colspan="2"> 
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TimyVillarmia&theme=dark"/>
-    </td> 
-  </tr> 
-   <tr> 
-    <td align="center"> 
-       <img src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&show_icons=true&theme=dark" />
-    </td> 
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html,css&count_private=true&langs_count=10&theme=dark"/>
-    </td> 
-   </tr> 
-</table>
+[00:05] Running job: contact-info
 
+> cat contact.txt
+🌐 Website   : https://timyvillarmia.vercel.app  
+💼 LinkedIn  : https://www.linkedin.com/in/timyvillarmia  
 
+[00:07] Running job: skills-check
 
+> cat skills.txt
+⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, JavaScript, React, Astro  
+🛢️ Databases              : SQL Server, SQLite  
+☁️ Cloud & Tools          : Azure, Git/GitHub, RESTful APIs  
+🌀 Methodologies          : Agile / Scrum  
 
-                                                                                                           
-                                                               
-                                                                                                     
+[00:10] Running job: build-stats
 
+> Generating GitHub metrics...
+
+✅ Build Succeeded: Profile Stats deployed
+```
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
+</a>
+
+```bash
+# ==========================
+# Pipeline finished in 12s
+# Status: ✅ SUCCESS
+```
