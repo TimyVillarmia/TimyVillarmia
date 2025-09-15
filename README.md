@@ -1,49 +1,39 @@
 ```bash
-# Starting CI/CD pipeline...
-# ==========================
+$ whoami
+I'm Timy Villarmia, a Computer Science graduate with interests in
+Full-stack Development, Cloud Computing, Game Development, and everything in between.
 
-[00:00] 🔄 Initializing environment...
-[00:01] 📂 Cloning repository from github.com/TimyVillarmia
-> git clone https://github.com/TimyVillarmia/TimyVillarmia.git
+$ cat contact.txt
+🌐 Website   : timyvillarmia.vercel.app
+💼 LinkedIn  : linkedin.com/in/timyvillarmia
 
-[00:03] 👤 Running job: whoami
-> echo "Identifying user..."
-I'm Timy Villarmia — a Computer Science graduate passionate about 
-Full-stack Development, Cloud Computing, and Game Development.
+$ cat skills.txt
+⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, JavaScript, React, Astro
+🛢️ Databases              : SQL Server, SQLite
+🛠️ Tools                  : Visual Studio, VS Code, Azure DevOps, Git/GitHub, Postman, Bruno
+☁️ Azure Services          : Storage, SQL Server, App Service
 
-[00:05] 📇 Running job: contact-info
-> cat contact.txt
-🌐 Website   : https://timyvillarmia.vercel.app  
-💼 LinkedIn  : https://www.linkedin.com/in/timyvillarmia  
-
-[00:07] 🛠️ Running job: skills-check
-> cat skills.txt
-⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, JavaScript, React, Astro  
-🛢️ Databases              : SQL Server, SQLite  
-☁️ Cloud & Tools          : Azure, Git/GitHub, RESTful APIs  
-🌀 Methodologies          : Agile / Scrum  
-
-[00:10] 📊 Running job: build-stats
-> Generating GitHub metrics...
-
-✅ [00:11] Build succeeded — Profile Stats deployed!
-
+$ cat learning.txt
+📖 Currently exploring     : Docker, Angular, CI/CD pipelines
 ```
 
-
 <table align="center" width="100%"> 
-   <tr> 
+      <tr> 
     <td align="center"> 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
     </td> 
     <td align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=donut&hide=html&count_private=true&langs_count=10&theme=dark"/>
+    </td> 
+   </tr> 
+   <tr> 
+    <td align="center"> 
+       <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6491a74edb7de05a7a70d4c4?variant=dark&roadmaps=system-design%2Cdevops%2Cangular%2Cdocker" alt="roadmap.sh"/></a>
+    </td> 
+    <td align="center">
+       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
     </td> 
    </tr> 
 </table>
 
-```bash
-# ==========================
-# Pipeline finished in 12s
-# Status: ✅ SUCCESS
-```
+
