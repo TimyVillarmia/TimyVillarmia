@@ -23,7 +23,7 @@ $ cat learning.txt
        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
     </td> 
     <td align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=donut&hide=html&count_private=true&langs_count=10&theme=dark"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=10&theme=dark"/>
     </td> 
    </tr> 
    <tr> 
