@@ -8,7 +8,7 @@ $ cat contact.txt
 💼 LinkedIn  : linkedin.com/in/timyvillarmia
 
 $ cat skills.txt
-⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, JavaScript, React, Astro
+⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, SQL/T-SQL, JavaScript, React, Astro
 🛢️ Databases              : SQL Server, SQLite
 🛠️ Tools                  : Visual Studio, VS Code, Git/GitHub, Postman, Bruno
 ☁️ Azure Services          : Storage, SQL Server, App Service, DevOps (Repos, Boards)
