@@ -10,7 +10,7 @@ $ cat contact.txt
 $ cat skills.txt
 ⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, JavaScript, React, Astro
 🛢️ Databases              : SQL Server, SQLite
-🛠️ Tools                  : Visual Studio, VS Code, Azure DevOps, Git/GitHub, Postman, Bruno
+🛠️ Tools                  : Visual Studio, VS Code, Git/GitHub, Postman, Bruno
 ☁️ Azure Services          : Storage, SQL Server, App Service, DevOps (Repos, Boards)
 
 $ cat learning.txt
