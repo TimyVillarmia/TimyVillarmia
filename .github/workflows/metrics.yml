@@ -17,32 +17,28 @@ jobs:
           # General settings
           user: TimyVillarmia
           template: terminal
-          # Removed metadata to save space at the bottom
           base: header, activity, community, repositories
           filename: github-metrics.svg
           config_timezone: Asia/Manila
           
-          # Visual Layout
+          # Visual Layout (Fixed height to prevent clipping)
+          config_height: 700
           config_padding: 0, 10
           config_order: base.header, languages, habits, achievements
           
-          # Languages - Limited to 6 to keep it short
+          # This pulls your LinkedIn/Email/Bio into 'whoami'
+          plugin_introduction: yes
+
+          # Languages (Focus on Logic)
           plugin_languages: yes
           plugin_languages_details: percentage
-          plugin_languages_limit: 6
-          plugin_languages_sections: most-used
+          # Excluded HTML/CSS to highlight C# and JS
+          plugin_languages_ignored: html, css, scss, sass, less
+          plugin_languages_limit: 8
           
-          # Habits - Simplified
+          # Habits & Achievements
           plugin_habits: yes
           plugin_habits_facts: yes
-          plugin_habits_charts: no # Charts take up a lot of vertical space
-          plugin_habits_days: 14
-          
-          # Achievements - Compact
+          plugin_habits_charts: no
           plugin_achievements: yes
-          plugin_achievements_threshold: B
           plugin_achievements_display: compact
-          plugin_achievements_limit: 5 # Limits rows to prevent cutoff
-          
-          # Lines of code
-          plugin_lines: yes
