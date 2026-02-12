@@ -1,20 +1,22 @@
-```bash
-$ whoami
+```zsh
+❯ whoami
 I'm Timy Villarmia, a Computer Science graduate with interests in
 Full-stack Development, Cloud Computing, Game Development, and everything in between.
 
-$ cat contact.txt
-🌐 Website   : timyvillarmia.vercel.app
-💼 LinkedIn  : linkedin.com/in/timyvillarmia
+❯ cat contact.txt
+🌐 Website   : https://timyvillarmia.vercel.app
+💼 LinkedIn  : https://linkedin.com/in/timyvillarmia
 
-$ cat skills.txt
+❯ cat skills.txt
 ⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, SQL/T-SQL, JavaScript, React, Astro
 🛢️ Databases              : SQL Server, SQLite
 🛠️ Tools                  : Visual Studio, VS Code, Git/GitHub, Postman, Bruno
 ☁️ Azure Services          : Storage, SQL Server, App Service, DevOps (Repos, Boards)
 
-$ cat learning.txt
+❯ cat learning.txt
 📖 Currently exploring     : Docker, Angular, CI/CD pipelines
+
+❯ ./display_stats.sh --all
 ```
 
 <table align="center" width="100%"> 
