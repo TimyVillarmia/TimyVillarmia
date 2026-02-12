@@ -1,25 +1,27 @@
+# 💻 timy@dev:~$
+
 ```zsh
 ❯ whoami
-I'm Timy Villarmia, a Computer Science graduate with interests in
-Full-stack Development, Cloud Computing, Game Development, and everything in between.
+Timy Villarmia | CS Graduate
+Focus: C#/.NET Core, Azure Cloud & Full-stack Architecture
+Passions: Game Dev & Scalable Systems
 
-❯ cat contact.txt
-🌐 Website   : https://timyvillarmia.vercel.app
-💼 LinkedIn  : https://linkedin.com/in/timyvillarmia
+❯ cat skills.sh --detailed
+# Languages & Frameworks
+- Backend  : C#, ASP.NET Core, Entity Framework, T-SQL
+- Frontend : JavaScript, React, Astro, Tailwind
+- Database : SQL Server, SQLite, PostgreSQL
 
-❯ cat skills.txt
-⚡ Languages & Frameworks : C#, ASP.NET Core, Entity Framework, SQL/T-SQL, JavaScript, React, Astro
-🛢️ Databases              : SQL Server, SQLite
-🛠️ Tools                  : Visual Studio, VS Code, Git/GitHub, Postman, Bruno
-☁️ Azure Services          : Storage, SQL Server, App Service, DevOps (Repos, Boards)
+# Infrastructure & Tools
+- Cloud    : Azure (App Service, SQL, Storage), DevOps
+- Tools    : Git, Docker, Postman, Bruno, Visual Studio
 
-❯ cat learning.txt
-📖 Currently exploring     : Docker, Angular, CI/CD pipelines
-
-❯ ./display_stats.sh --all
+❯ ./fetch_analytics --all
 ```
-
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6491a74edb7de05a7a70d4c4?variant=dark&roadmaps=system-design%2Cdevops%2Cangular%2Cdocker" alt="roadmap.sh"/></a>
-
 ![GitHub Metrics](github-metrics.svg)
+
+```zsh
+❯ cat contact.info
+🌐 https://timyvillarmia.vercel.app
+💼 linkedin.com/in/timyvillarmia
+```
