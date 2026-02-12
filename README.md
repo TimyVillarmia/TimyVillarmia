@@ -4,10 +4,8 @@
 ❯ whoami
 Timy Villarmia | CS Graduate
 Focus: C#/.NET Core, Azure Cloud & Full-stack Architecture
-Passions: Game Dev & Scalable Systems
 
 ❯ cat skills.sh --detailed
-# Languages & Frameworks
 - Backend  : C#, ASP.NET Core, Entity Framework, T-SQL
 - Frontend : JavaScript, React, Astro, Tailwind
 - Database : SQL Server, SQLite, PostgreSQL
