@@ -23,7 +23,7 @@ $ cat learning.txt
        <img height=200 align="center" src="https://gh-stats-ashen.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
     </td> 
     <td align="center">
-       <img src="gh-stats-ashen.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=8&theme=dark"/>
+       <img src="https://gh-stats-ashen.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=8&theme=dark"/>
     </td> 
    </tr> 
    <tr> 
