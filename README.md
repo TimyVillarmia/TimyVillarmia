@@ -20,10 +20,10 @@ $ cat learning.txt
 <table align="center" width="100%"> 
       <tr> 
     <td align="center"> 
-       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+       <img height=200 align="center" src="https://gh-stats-pied.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
     </td> 
     <td align="center">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=8&theme=dark"/>
+       <img src="gh-stats-pied.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=8&theme=dark"/>
     </td> 
    </tr> 
    <tr> 
