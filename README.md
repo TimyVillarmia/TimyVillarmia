@@ -19,26 +19,7 @@ Full-stack Development, Cloud Computing, Game Development, and everything in bet
 ❯ ./display_stats.sh --all
 ```
 
-<table align="center" width="100%"> 
-      <tr> 
-    <td align="center"> 
-       <img height=200 align="center" src="https://gh-stats-ashen.vercel.app/api?username=TimyVillarmia&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-    </td> 
-    <td align="center">
-       <img src="https://gh-stats-ashen.vercel.app/api/top-langs/?username=TimyVillarmia&layout=compact&hide=html&count_private=true&langs_count=8&theme=dark"/>
-    </td> 
-   </tr> 
-   <tr> 
-    <td align="center"> 
-       <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6491a74edb7de05a7a70d4c4?variant=dark&roadmaps=system-design%2Cdevops%2Cangular%2Cdocker" alt="roadmap.sh"/></a>
-    </td> 
-    <td align="center">
-       <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
-    </td> 
-   </tr> 
-</table>
-
-
-# 📊 My Stats
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TimyVillarmia&theme=dark&hide_border=true" />
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6491a74edb7de05a7a70d4c4?variant=dark&roadmaps=system-design%2Cdevops%2Cangular%2Cdocker" alt="roadmap.sh"/></a>
 
 ![GitHub Metrics](github-metrics.svg)
