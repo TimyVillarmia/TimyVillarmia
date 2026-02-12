@@ -39,3 +39,6 @@ Full-stack Development, Cloud Computing, Game Development, and everything in bet
 </table>
 
 
+# 📊 My Stats
+
+![GitHub Metrics](github-metrics.svg)
