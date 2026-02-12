@@ -14,12 +14,9 @@ Focus: C#/.NET Core, Azure Cloud & Full-stack Architecture
 - Cloud    : Azure (App Service, SQL, Storage), DevOps
 - Tools    : Git, Docker, Postman, Bruno, Visual Studio
 
-❯ ./fetch_analytics --all
-```
-![GitHub Metrics](github-metrics.svg)
-
-```zsh
 ❯ cat contact.info
 🌐 https://timyvillarmia.vercel.app
 💼 linkedin.com/in/timyvillarmia
 ```
+![GitHub Metrics](github-metrics.svg)
+
