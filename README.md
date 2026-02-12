@@ -1,21 +1,14 @@
-# 💻 timy@dev:~$
+# Hi, I'm Timy 👋
 
-```zsh
-🐧 timy@dev ~/..📂../skills 🌿 main ❯
-# whoami
-Timy Villarmia | CS Graduate
-Focus   : C#/.NET Core, Azure Cloud & Full-stack Development
+I'm a **Junior Software Engineer** from Cebu. I mostly build backends using **ASP.NET Core**, **EF Core**, and **SQL Server**, usually deploying to **Azure**. 
 
-🐧 timy@dev ~/..📂../tech-stack 🌿 main ❯
-# cat detailed.sh
-- Backend  : C#, ASP.NET Core, EF Core, T-SQL
-- Frontend : JavaScript, React, Astro
-- Cloud    : Azure (App Service, SQL, Storage)
+Lately, I've been working more with **React**, specifically **React Router** and **TanStack Query**. I’m looking for a role where I can use my backend experience while working across the full stack.
 
-🐧 timy@dev ~/..📂../contact 🌿 main ❯
-# cat info.txt
-🌐 https://timyvillarmia.vercel.app
-💼 linkedin.com/in/timyvillarmia
-```
-![GitHub Metrics](github-metrics.svg)
+When I'm offline, I'm usually playing **Teamfight Tactics**.
 
+**Contact:**
+📧 timyvillarmia@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/timyvillarmia) | 🌐 [Portfolio](https://timyvillarmia.vercel.app)
+
+---
+
+<img src="github-metrics.svg" width="100%">
