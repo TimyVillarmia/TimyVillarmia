@@ -2,7 +2,7 @@
 
 I'm a **Junior Software Engineer** from Cebu. I mostly build backends using **ASP.NET Core**, **EF Core**, and **SQL Server**, usually deploying to **Azure**. 
 
-Lately, I've been working more with **React**, specifically **React Router** and **TanStack Query**. I’m looking for a role where I can use my backend experience while working across the full stack.
+Lately, I've been working more with **React**, specifically **Next.js** I’m looking for a role where I can use my backend experience while working across the full stack.
 
 When I'm offline, I'm usually playing **Teamfight Tactics**.
 
