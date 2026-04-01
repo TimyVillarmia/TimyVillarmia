@@ -29,12 +29,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/d16b02ba98a97
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
