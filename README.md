@@ -7,4 +7,4 @@ I like experimenting with **containerization**, **Linux**, and simple **CI/CD** 
 
 When I’m not coding, I play **Teamfight Tactics**.
 
-<img src="github-metrics.svg" width="100%">
+![Metrics](/github-metrics.svg)
