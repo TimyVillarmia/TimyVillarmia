@@ -4,10 +4,8 @@ on:
   # Schedule updates (Twice a day instead of every hour to save action minutes)
   schedule:
     - cron: "0 0  * * *"
-
   # Manual trigger
   workflow_dispatch:
-
   # Run on push to main branches
   push:
     branches:
@@ -17,7 +15,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
       - name: Generate GitHub Metrics
         # Pinning to a specific major version (v3) prevents unexpected breaking changes
