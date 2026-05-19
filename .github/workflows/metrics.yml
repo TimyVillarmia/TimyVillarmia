@@ -1,7 +1,6 @@
 name: GitHub Metrics
 
 on:
-  # Run every 6 hours instead of every hour
   schedule:
     - cron: "0 0 * * *"
 
@@ -57,11 +56,7 @@ jobs:
 
           # Ignore generated/web styling languages
           plugin_languages_ignored: >
-            html, css, scss, sass, less,
-            dockerfile, makefile
-
-          # Reduce clutter
-          plugin_languages_limit: 6
+            html, css, scss, sass, less
 
           # Recent activity
           plugin_languages_recent_categories: programming
