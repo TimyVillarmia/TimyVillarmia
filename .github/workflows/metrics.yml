@@ -1,9 +1,8 @@
 name: Metrics
 
 on:
-  # Schedule updates (Twice a day instead of every hour to save action minutes)
   schedule:
-    - cron: "0 0  * * *"
+  - cron: "0 16 * * *"
   # Manual trigger
   workflow_dispatch:
   # Run on push to main branches
