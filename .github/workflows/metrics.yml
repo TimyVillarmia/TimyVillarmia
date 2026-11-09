@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-  - cron: "0 16 * * *"
+  - cron: "0 16 * * 1"
   # Manual trigger
   workflow_dispatch:
   # Run on push to main branches
